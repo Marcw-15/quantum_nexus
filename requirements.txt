@@ -1,0 +1,15 @@
+fastapi>=0.109.0
+uvicorn>=0.27.0
+pennylane>=0.34.0
+pennylane-lightning>=0.34.0
+numpy>=1.26.0
+pandas>=2.2.0
+scikit-learn>=1.4.0
+pydantic>=2.6.0
+pydantic-settings>=2.1.0
+loguru>=0.7.2
+chromadb>=0.4.22
+python-multipart
+requests
+apscheduler>=3.10.4
+streamlit>=1.30.0
